@@ -1,0 +1,14 @@
+REM Author: Marshall Richards
+REM Description: Opens youtube and plays ymca fullscreen. Developed to work with ubuntu linux.
+DELAY 300
+ALT F2
+DELAY 300
+STRING google-chrome-stable
+ENTER
+DELAY 1000
+STRING https://www.youtube.com/watch?v=CS9OO0S5w2k
+ENTER
+DELAY 2000
+F11
+
+
